@@ -1,0 +1,33 @@
+{
+  "name": "node-web-push",
+  "version": "1.0.0",
+  "description": "An example Node.js server using Web Push",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "twilio": "^3.4.0",
+    "web-push": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkio/node-web-push.git"
+  },
+  "keywords": [
+    "node",
+    "web",
+    "push",
+    "javascript"
+  ],
+  "author": "Brian Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarkio/node-web-push/issues"
+  },
+  "homepage": "https://github.com/clarkio/node-web-push#readme"
+}
